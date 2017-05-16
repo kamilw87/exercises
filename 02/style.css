@@ -1,0 +1,35 @@
+.logo-moje {
+	width: 45px;
+	padding: 10px 0px
+}
+
+.navbar-moje {
+	padding: 0px 15px !important;
+}
+
+.zielona-moje {
+	background-color: lime;
+}
+
+.smiling-face {
+	width: 100%;
+	max-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.footer {
+	text-align: center;
+}
+
+.container-fluid h3 {
+	font-size: 18px;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.art-title {
+	margin-bottom: 30px;
+}
